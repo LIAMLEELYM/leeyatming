@@ -12,7 +12,7 @@ description: A blog about technology and stuff related
 
 # if it's an external image, update below for true
 # better with square images
-external-image: false
+external-image: true
 picture: assets/images/cat.JPG
 
 # your site color theme, true for dark theme, 
@@ -23,12 +23,12 @@ dark-theme: false
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://liamleelym.github.io/resume/
+resume-url: 
 
-url: 
+url: https://liamleelym.github.io/resume/
 # your url: 
 
-permalink: /:title/
+#permalink: /:title/
 
 # To enable google analytics, supply your token below
 # analytics-google: 'UA-MYANALYTICS'
@@ -51,7 +51,7 @@ authors:
   Liam:
     name: LEE YatMing
     bio: I love my cat who is called Sesame
-    external-image: false
+    external-image: true
     picture: assets/images/profile.JPG
     instagram: liamleeym
 
