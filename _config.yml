@@ -1,6 +1,11 @@
+#title: LEE YatMing Liam
+#logo: /assets/img/headshot_circle.png
+#description: text below image
+#show_downloads: true
+#theme: jekyll-theme-minimal
 # main text of home
-title: John Doe
-bio: A Person who travels the world eating noodles
+title: LEE YatMing
+bio: I love my cat who is called Sesame
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -18,10 +23,10 @@ dark-theme: auto
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume-url: 
 
-url: https://sergiokopplin.github.io/indigo
-# your url: https://USERNAME.github.io
+url: https://liamleelym.github.io/leeyatming/
+# your url: 
 
 permalink: /:title/
 
@@ -34,26 +39,23 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
-instagram: myinstagram
-linkedin: mylinkedin
-github: mygithub
-email: myemail@gmail.com
+#facebook: myfacebook
+#twitter: mytwitter
+instagram: liamleeym
+#linkedin: mylinkedin
+#github: mygithub
+wechat: LIAMLEE-LYM
+email: liamleeym@outlook.com
+
 
 authors:
-  johndoe:
-    name: John Doe
-    bio: A Man who travels the world eating noodles
+  Liam:
+    name: LEE YatMing
+    bio: I love my cat who is called Sesame
     external-image: false
     picture: assets/images/profile.jpg
-    twitter: johndoe
-  jamesfoster:
-    name: James Foster
-    bio: A Man who develops software with coffee
-    external-image: false
-    picture: assets/images/james.jpg
-    twitter: jamesfoster
+    instagram: liamleeym
+
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
@@ -77,7 +79,7 @@ show-tags: true
 related: true
 
 # Display links for next and previous posts for the specified categories
-post-advance-links: [blog]
+post-advance-links: https://liamleelym.github.io/blog/
 
 # show author block at the end of a post ?
 show-author: true
