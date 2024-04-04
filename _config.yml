@@ -28,7 +28,7 @@ resume-url: https://liamleelym.github.io/resume/
 url: https://liamleelym.github.io/leeyatming/
 # your url: 
 
-#permalink: /:title/
+permalink: /:title/
 
 # To enable google analytics, supply your token below
 # analytics-google: 'UA-MYANALYTICS'
