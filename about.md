@@ -21,7 +21,7 @@ layout: page
 <h2>Contact</h2>
 
 <ul class="contact-list">
-	<li><a href="[https://www.xiaohongshu.com/user/profile/5b8b4d8e18582100015b6f3c?xhsshare=CopyLink&appuid=5b8b4d8e18582100015b6f3c&apptime=1712930218">Xiaohongshu</a></li>
+	<li><a href="https://www.xiaohongshu.com/user/profile/5b8b4d8e18582100015b6f3c?xhsshare=CopyLink&appuid=5b8b4d8e18582100015b6f3c&apptime=1712941159">Xiaohongshu</a></li>
 	<li><a href="mailto:liamleeym@outlook.com">Contact Me via Email</a></li>
 </ul>
 
