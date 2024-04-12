@@ -27,3 +27,6 @@ layout: page
 <h2>My Cat</h2>
 
 <p>Last but not least, It is my cat who is called Sesame.</p>
+<img src="Cat01.jpg" alt="Sesame the Cat">
+<img src="Cat02.jpg" alt="Sesame the Cat">
+<img src="Cat03.jpg" alt="Sesame the Cat">
