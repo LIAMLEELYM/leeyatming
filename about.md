@@ -10,7 +10,8 @@ layout: page
 
 <ul class="skill-list">
 	<li>Tableau: Data Visualization</li>
-	<li>Python: Data Analysis and Visualization, Machine Learning(eg.Sentiment Analysis, clustering, regression)</li>
+	<li>Python: Data Analysis and Visualization</li>
+	<li>Machine Learning(eg.Sentiment Analysis, clustering, regression)</li>
 	<li>R: Mainly for Data Visualization</li>
 	<li>SAS Miner: Data Analysis</li>
 	<li>SQL Sever</li>
@@ -19,21 +20,19 @@ layout: page
 
 <h2>Contact</h2>
 
-<ul>
+<ul class="contact-list">
 	<li><a href="[https://www.xiaohongshu.com/user/profile/5b8b4d8e18582100015b6f3c?xhsshare=CopyLink&appuid=5b8b4d8e18582100015b6f3c&apptime=1712930218">Xiaohongshu</a></li>
-	<li><a href="mailto:liamleeym@outlook.com">Contact Me via Email</a><li>
+	<li><a href="mailto:liamleeym@outlook.com">Contact Me via Email</a></li>
 </ul>
-
-
 
 <h2>My Cat</h2>
 
 <p>Last but not least, It is my cat who is called Sesame. Adorable, Right?</p>
 <div style="display: flex;">
-   <img src="https://github.com/LIAMLEELYM/leeyatming/blob/gh-pages/assets/images/CAT02.JPG" alt="Sesame" width="302" height="302">
-    <img src="https://github.com/LIAMLEELYM/leeyatming/blob/gh-pages/assets/images/CAT04.jpg" alt="Sesame" width="302" height="302">
+   <img src="https://github.com/LIAMLEELYM/leeyatming/blob/bfc71ca9b9e0f7b0fc2c74e4c83f608d7a37d259/assets/images/CAT02.JPG" alt="Sesame" width="302" height="302">
+    <img src="https://github.com/LIAMLEELYM/leeyatming/blob/bfc71ca9b9e0f7b0fc2c74e4c83f608d7a37d259/assets/images/CAT04.jpg" alt="Sesame" width="302" height="302">
 </div>
 <div style="display: flex;">
-   <img src="https://github.com/LIAMLEELYM/leeyatming/blob/gh-pages/assets/images/CAT01.JPG" alt="Sesame" width="302" height="403">
-    <img src="https://github.com/LIAMLEELYM/leeyatming/blob/gh-pages/assets/images/CAT03.JPG" alt="Sesame" width="302" height="403">
+   <img src="https://github.com/LIAMLEELYM/leeyatming/blob/bfc71ca9b9e0f7b0fc2c74e4c83f608d7a37d259/assets/images/CAT01.JPG" alt="Sesame" width="302" height="403">
+    <img src="https://github.com/LIAMLEELYM/leeyatming/blob/bfc71ca9b9e0f7b0fc2c74e4c83f608d7a37d259/assets/images/CAT03.JPG" alt="Sesame" width="302" height="403">
 </div>
