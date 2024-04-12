@@ -17,16 +17,23 @@ layout: page
 	<li>Play with my cat</li>
 </ul>
 
-<h2>Others</h2>
+<h2>Contact</h2>
 
 <ul>
 	<li><a href="[https://www.xiaohongshu.com/user/profile/5b8b4d8e18582100015b6f3c?xhsshare=CopyLink&appuid=5b8b4d8e18582100015b6f3c&apptime=1712930218">Xiaohongshu</a></li>
-	
+	<li><a href="mailto:liamleeym@outlook.com">Contact Me via Email</a><li>
 </ul>
+
+
 
 <h2>My Cat</h2>
 
-<p>Last but not least, It is my cat who is called Sesame.</p>
-<img src="Cat01.jpg" alt="Sesame the Cat">
-<img src="Cat02.jpg" alt="Sesame the Cat">
-<img src="Cat03.jpg" alt="Sesame the Cat">
+<p>Last but not least, It is my cat who is called Sesame. Adorable, Right?</p>
+<div style="display: flex;">
+   <img src="https://github.com/LIAMLEELYM/leeyatming/blob/gh-pages/assets/images/CAT02.JPG" alt="Sesame" width="302" height="302">
+    <img src="https://github.com/LIAMLEELYM/leeyatming/blob/gh-pages/assets/images/CAT04.JPG" alt="Sesame" width="302" height="302">
+</div>
+<div style="display: flex;">
+   <img src="https://github.com/LIAMLEELYM/leeyatming/blob/gh-pages/assets/images/CAT01.JPG" alt="Sesame" width="302" height="403">
+    <img src="https://github.com/LIAMLEELYM/leeyatming/blob/gh-pages/assets/images/CAT03.JPG" alt="Sesame" width="302" height="403">
+</div>
