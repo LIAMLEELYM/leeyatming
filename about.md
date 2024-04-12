@@ -28,11 +28,5 @@ layout: page
 <h2>My Cat</h2>
 
 <p>Last but not least, It is my cat who is called Sesame. Adorable, Right?</p>
-<div style="display: flex;">
-   <img src="https://github.com/LIAMLEELYM/leeyatming/blob/bfc71ca9b9e0f7b0fc2c74e4c83f608d7a37d259/assets/images/CAT02.JPG" alt="Sesame" width="302" height="302">
-    <img src="https://github.com/LIAMLEELYM/leeyatming/blob/bfc71ca9b9e0f7b0fc2c74e4c83f608d7a37d259/assets/images/CAT04.jpg" alt="Sesame" width="302" height="302">
-</div>
-<div style="display: flex;">
-   <img src="https://github.com/LIAMLEELYM/leeyatming/blob/bfc71ca9b9e0f7b0fc2c74e4c83f608d7a37d259/assets/images/CAT01.JPG" alt="Sesame" width="302" height="403">
-    <img src="https://github.com/LIAMLEELYM/leeyatming/blob/bfc71ca9b9e0f7b0fc2c74e4c83f608d7a37d259/assets/images/CAT03.JPG" alt="Sesame" width="302" height="403">
-</div>
+![Sesame](assets/images/CAT01.JPG =302X302)
+![Sesame](https://github.com/LIAMLEELYM/leeyatming/blob/bfc71ca9b9e0f7b0fc2c74e4c83f608d7a37d259/assets/images/CAT01.JPG | width=302)
