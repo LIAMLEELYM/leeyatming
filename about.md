@@ -12,10 +12,10 @@ layout: page
 	<li>Stata: Financial Data Analysis</li>
 	<li>Tableau: Data Visualization</li>
 	<li>Python: Data Analysis and Visualization</li>
-	<li>Machine Learning(eg.Sentiment Analysis, clustering, regression)</li>
+	<li>Machine Learning(eg.Sentiment Analysis, clustering, classification, regression)</li>
 	<li>R: Mainly for Data Visualization</li>
 	<li>SAS Miner: Data Analysis</li>
-	<li>SQL Sever: Conceptual Design</li>
+	<li>MySQL/SQL Sever: Conceptual Design(ER Diagram), Logical Database Design(Relations/Tables), Physical Database Design, Implementation(SQL Statements)</li>
 	<li>Play with my cat</li>
 </ul>
 
