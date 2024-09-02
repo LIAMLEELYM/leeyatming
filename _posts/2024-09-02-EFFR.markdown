@@ -1,5 +1,5 @@
 ---
-title: "Effective Federal Funds Rate for Stock Market Decisions"
+title: "Can Investors Rely on the Effective Federal Funds Rate for Stock Market Decisions?"
 layout: post
 date: 2024-09-02
 headerImage: false
@@ -13,23 +13,23 @@ author: liamlee
 description: Can Investors Rely on the Effective Federal Funds Rate for Stock Market Decisions?
 ---
 
-# Can Investors Rely on the Effective Federal Funds Rate for Stock Market Decisions?
+
 Investors often believe that changes in interest rates, specifically cuts, can lead to lower financing costs, increased lending, and ultimately a boost to the economy, and it leads to the stock price going up. This report examines the relationship between Federal Reserve (Fed) interest rate changes and the performance of the S&P 500 Index, highlighting the periods of rate cuts and hikes.
 The following are the historical periods when the Fed implemented interest rate cuts and hikes, using the FOMC Meeting date for the start and end points (from 1990 to 2024)
 
-Rate Cut Periods:
-August 1, 2019 to March 16, 2020
-September 18, 2007 to December 16, 2008
-January 31, 2001 to June 25, 2003
-July 6, 1995 to November 17, 1998
-July 13, 1990 to September 13, 1991
+Rate Cut Periods: <br>
+August 1, 2019 to March 16, 2020<br>
+September 18, 2007 to December 16, 2008<br>
+January 31, 2001 to June 25, 2003<br>
+July 6, 1995 to November 17, 1998<br>
+July 13, 1990 to September 13, 1991<br>
 
-Rate Hike Periods: 
-March 17, 2022 to July 26, 2023
-December 17, 2015 to December 20, 2018
-June 30, 2004 to June 29, 2006
-June 30, 1999 to May 16, 2000
-February 4, 1994 to February 1, 1995
+Rate Hike Periods: <br>
+March 17, 2022 to July 26, 2023<br>
+December 17, 2015 to December 20, 2018<br>
+June 30, 2004 to June 29, 2006<br>
+June 30, 1999 to May 16, 2000<br>
+February 4, 1994 to February 1, 1995<br>
 
 ![image](https://github.com/user-attachments/assets/74dc30cf-56f6-4a9d-84db-21ec5026223c)
 
