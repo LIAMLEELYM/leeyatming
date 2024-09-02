@@ -1,0 +1,51 @@
+---
+title: "Effective Federal Funds Rate for Stock Market Decisions"
+layout: post
+date: 2024-09-02
+headerImage: false
+tag:
+- markdown
+- EFFR
+- S&P500
+star: true
+category: blog
+author: liamlee
+description: Can Investors Rely on the Effective Federal Funds Rate for Stock Market Decisions?
+---
+
+# Can Investors Rely on the Effective Federal Funds Rate for Stock Market Decisions?
+Investors often believe that changes in interest rates, specifically cuts, can lead to lower financing costs, increased lending, and ultimately a boost to the economy, and it leads to the stock price going up. This report examines the relationship between Federal Reserve (Fed) interest rate changes and the performance of the S&P 500 Index, highlighting the periods of rate cuts and hikes.
+The following are the historical periods when the Fed implemented interest rate cuts and hikes, using the FOMC Meeting date for the start and end points (from 1990 to 2024)
+
+Rate Cut Periods:
+August 1, 2019 to March 16, 2020
+September 18, 2007 to December 16, 2008
+January 31, 2001 to June 25, 2003
+July 6, 1995 to November 17, 1998
+July 13, 1990 to September 13, 1991
+
+Rate Hike Periods: 
+March 17, 2022 to July 26, 2023
+December 17, 2015 to December 20, 2018
+June 30, 2004 to June 29, 2006
+June 30, 1999 to May 16, 2000
+February 4, 1994 to February 1, 1995
+
+![image](https://github.com/user-attachments/assets/74dc30cf-56f6-4a9d-84db-21ec5026223c)
+
+![image](https://github.com/user-attachments/assets/cba4fd95-7868-4e74-8a82-f0053dd3453e)
+
+Data Source: Board of Governors of the Federal Reserve System, Yahoo Finance
+
+## Observations
+While investors anticipate that rate cuts will stimulate economic activity and enhance stock prices, historical data suggests that these periods do not consistently correlate with notable increases in the S&P 500. Similarly, expectations surrounding rate hikes often lead to concerns about potential declines in stock prices. However, the performance of the S&P 500 during these periods has shown resilience, with no clear trend indicating a downturn solely due to rate increases.
+## Granger-Causality Test Results
+To further investigate the relationship between the effective federal funds rate and the S&P 500, a Granger-causality test was conducted. The results are as follows: 
+
+![image](https://github.com/user-attachments/assets/bd693b75-6ad9-4e34-b3ab-93a8b41fee10)
+
+## Analysis of Granger-Causality Test
+Since the p-value (1.000) is much higher than the 0.05 significance level, we fail to reject the null hypothesis. This indicates that the effective federal funds rate does not have a predictive influence on the S&P 500. In other words, changes in the effective federal funds rate do not forecast movements in the S&P 500 index.
+## Conclusion
+In conclusion, the data indicates that Fed policy turning points do not significantly influence the movement of the S&P 500 Index. A review of the S&P 500 Index during these periods reveals that the expectation that rate cuts or hikes are reliable predictors of future stock performance may be overstated.
+Investors should consider a broader range of economic factors when assessing market conditions, rather than relying solely on interest rate movements.
