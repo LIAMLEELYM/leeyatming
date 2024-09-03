@@ -9,7 +9,7 @@ tag:
 - S&P500
 star: true
 category: blog
-author: liamlee
+author: LEE YatMing
 description: Can Investors Rely on the Effective Federal Funds Rate for Stock Market Decisions?
 ---
 
