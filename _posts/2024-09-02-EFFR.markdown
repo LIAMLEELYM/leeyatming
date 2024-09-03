@@ -4,15 +4,17 @@ layout: post
 date: 2024-09-02
 headerImage: false
 tag:
-- markdown
+- soft landing
 - EFFR
 - S&P500
+- rates cut
 star: true
 category: blog
 author: Liam
 description: Can Investors Rely on the Effective Federal Funds Rate for Stock Market Decisions?
 ---
-
+![FOMC](https://github.com/user-attachments/assets/58ab2116-2c5b-46d8-ac9c-5e1d13066a29)
+Picture: Board of Governors of the Federal Reserve System<br>
 
 Investors often believe that changes in interest rates, specifically cuts, can lead to lower financing costs, increased lending, and ultimately a boost to the economy, and it leads to the stock price going up. This report examines the relationship between Federal Reserve (Fed) interest rate changes and the performance of the S&P 500 Index, highlighting the periods of rate cuts and hikes.
 The following are the historical periods when the Fed implemented interest rate cuts and hikes, using the FOMC Meeting date for the start and end points (from 1990 to 2024)
@@ -47,5 +49,6 @@ To further investigate the relationship between the effective federal funds rate
 ## Analysis of Granger-Causality Test
 Since the p-value (1.000) is much higher than the 0.05 significance level, we fail to reject the null hypothesis. This indicates that the effective federal funds rate does not have a predictive influence on the S&P 500. In other words, changes in the effective federal funds rate do not forecast movements in the S&P 500 index.
 ## Conclusion
-In conclusion, the data indicates that Fed policy turning points do not significantly influence the movement of the S&P 500 Index. A review of the S&P 500 Index during these periods reveals that the expectation that rate cuts or hikes are reliable predictors of future stock performance may be overstated.
-Investors should consider a broader range of economic factors when assessing market conditions, rather than relying solely on interest rate movements.
+In conclusion, the data indicates that Fed policy turning points do not significantly influence the movement of the S&P 500 Index. A review of the S&P 500 Index during these periods reveals that the expectation that rate cuts or hikes are reliable predictors of future stock performance may be overstated.<br>
+
+Investors should look beyond interest rate movements when assessing market conditions, as a broader range of economic factors can provide crucial insights. Key indicators such as GDP growth, inflation trends, and consumer confidence reflect the overall health of the economy. Additionally, global events, sector performance, and central bank policies beyond just rate changes can significantly impact markets. All of these elements contribute to understanding potential scenarios, including “soft landing” and “hard landing” for the U.S. economy. Therefore, investors should base their investment decisions on a comprehensive evaluation of these factors to ensure compliance and informed strategy.
