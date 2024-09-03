@@ -42,10 +42,34 @@ While investors anticipate that rate cuts will stimulate economic activity and e
 ## Granger-Causality Test Results
 To further investigate the relationship between the effective federal funds rate and the S&P 500, a Granger-causality test was conducted. The results are as follows: 
 
-![image](https://github.com/user-attachments/assets/bd693b75-6ad9-4e34-b3ab-93a8b41fee10)
+```python
+import pandas as pd
+import numpy as np
+import statsmodels.api as sm
+from statsmodels.tsa.stattools import adfuller
+from statsmodels.tsa.api import VAR
+
+def check_stationarity(series):
+    result = adfuller(series)
+    return result[1]  
+
+p_values = {col: check_stationarity(data2[col]) for col in data2.columns}
+print(p_values)
+
+for col in data2.columns:
+    if p_values[col] > 0.05:
+        data2[col] = data2[col].diff().dropna()
+
+model = VAR(data2)
+results = model.fit(maxlags=15, ic='aic')
+
+causality_results = results.test_causality('S&P500', 'effective_federal_funds_rate')
+print(causality_results.summary())
+```
+![Screenshot 2024-09-03 154056](https://github.com/user-attachments/assets/5132bf38-00d8-46c8-b521-80fcac7dc1c5)
 
 ## Analysis of Granger-Causality Test
-Since the p-value (1.000) is much higher than the 0.05 significance level, we fail to reject the null hypothesis. This indicates that the effective federal funds rate does not have a predictive influence on the S&P 500. In other words, changes in the effective federal funds rate do not forecast movements in the S&P 500 index.
+Since the p-value is much higher than the 0.05 significance level, we fail to reject the null hypothesis. This indicates that the effective federal funds rate does not have a predictive influence on the S&P 500. In other words, changes in the effective federal funds rate do not forecast movements in the S&P 500 index.
 ## Conclusion
 In conclusion, the data indicates that Fed policy turning points do not significantly influence the movement of the S&P 500 Index. A review of the S&P 500 Index during these periods reveals that the expectation that rate cuts or hikes are reliable predictors of future stock performance may be overstated.<br>
 
