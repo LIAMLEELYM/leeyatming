@@ -11,7 +11,7 @@ tag:
 star: true
 category: blog
 author: Liam
-description: Can Investors Rely on the Effective Federal Funds Rate for Stock Market Decisions?
+description: Stock Market Decisions
 ---
 
 Investors often believe that changes in interest rates, specifically cuts, can lead to lower financing costs, increased lending, and ultimately a boost to the economy, and it leads to the stock price going up. This report examines the relationship between Federal Reserve (Fed) interest rate changes and the performance of the S&P 500 Index, highlighting the periods of rate cuts and hikes.
