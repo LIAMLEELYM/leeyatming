@@ -19,14 +19,16 @@ Investors often worry that Warren Buffett's substantial cash holdings signal a l
 ## Berkshire Hathaway's Cash Holdings
 As the chart shows, Berkshire Hathaway's cash holdings from 1996 to 2023 reveal a consistent trend of increasing cash reserves. While the total cash amount often attracts attention and makes headlines, evaluating these reserves as a percentage of the company’s total assets provides a deeper understanding of its financial strategy and overall health.<br>
 
-![image](https://github.com/user-attachments/assets/7cfc9361-ffab-4d8b-8cd1-5b55243d2f1c)<br>
-Data Source: CompaniesMarketcap
+![2-1](https://github.com/user-attachments/assets/e80be857-81aa-4281-bdca-a561b7cb5b28)<br>
+
+Data Source: Berkshire Hathaway's Filings data
 
 ## Cash Holdings as a Percentage of Market Capital
 By comparing Berkshire Hathaway's market capitalization with its total cash levels, we observe that both metrics have risen over the years. 
 
-![image](https://github.com/user-attachments/assets/e019abbc-d14e-4071-b3da-dd2fb5cf4597)<br>
-Data Source: CompaniesMarketcap
+![2-2](https://github.com/user-attachments/assets/2e9fc82b-b79e-4b90-82b2-e60acdacd865)<br>
+
+Data Source: Berkshire Hathaway's Filings data
 
 ## Berkshire Hathaway's Cash Holdings Level
 Notably, over the past decade, Berkshire's cash holdings have remained relatively stable, averaging around 16% of total assets. This suggests that the current cash position aligns closely with the firm’s long-term average.<br>
@@ -35,8 +37,9 @@ Even when considering the last five years, Berkshire Hathaway's cash holdings ar
 
 Thus, investors should not adopt a bearish view of the stock market simply because Berkshire Hathaway’s cash holdings have reached a record high.<br>
 
-![image](https://github.com/user-attachments/assets/27f5ec5c-38ce-4cd4-ae86-091650b75804)<br>
-Data Source: CompaniesMarketcap
+![2-3](https://github.com/user-attachments/assets/6741b8df-acab-405f-9d2e-20c606cbf8b3)<br>
+
+Data Source: Berkshire Hathaway's Filings data
 
 ## Conclusion
 In conclusion, while Berkshire Hathaway's cash holdings may initially appear concerning, they should not be interpreted as a bearish signal for the stock market. The current cash position is in line with historical averages and serves strategic purposes essential for the company’s operations and growth. Therefore, investors should avoid a pessimistic outlook on the stock market based solely on Berkshire Hathaway's cash reserves. A comprehensive analysis of cash holdings in relation to total assets provides a more accurate perspective.<br>
