@@ -8,7 +8,7 @@ tag:
 - EFFR
 - S&P500
 - rates cut
-star: true
+star: false
 category: blog
 author: Liam
 description: Stock Market Decisions
