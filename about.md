@@ -23,7 +23,7 @@ layout: page
 
 <ul class="contact-list">
 	<li><a href="mailto:liamleeym@outlook.com">Contact Me via Email</a></li>
-	<li><a href="linkedin.com/in/liam-lee-1463bb30a">Contact Me via LinkedIn</a></li>
+	<li><a href="https://linkedin.com/in/liam-lee-1463bb30a">Contact Me via LinkedIn</a></li>
 </ul>
 
 <h2>My Cat</h2>
